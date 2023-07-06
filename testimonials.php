@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from commonsupport.com/mamnun/saveus/testimonials.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 06:34:01 GMT -->
+<!-- Mirrored from commonsupport.com/mamnun/saveus/testimonials.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 06:34:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -87,7 +87,7 @@
                     <div class="auto_container">
                         <div class="outer-box">
                             <div class="logo-box">
-                                <figure class="logo"><a href="index-2.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                                <figure class="logo"><a href="index-2.php"><img src="assets/images/logo.png" alt=""></a></figure>
                             </div>
                             <div class="menu-area">
                                 <!--Mobile Navigation Toggler-->
@@ -99,58 +99,58 @@
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
-                                            <li class="dropdown"><a href="index-2.html">Home</a>
+                                            <li class="dropdown"><a href="index-2.php">Home</a>
                                                 <ul>
-                                                    <li><a href="index-2.html">Home One</a></li>
-                                                    <li><a href="index-3.html">Home Two</a></li>
-                                                    <li><a href="index-4.html">Home Three</a></li>
+                                                    <li><a href="index-2.php">Home One</a></li>
+                                                    <li><a href="index-3.php">Home Two</a></li>
+                                                    <li><a href="index-4.php">Home Three</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="about-us.html">About</a></li>
-                                            <li class="dropdown"><a href="causes.html">Causes</a>
+                                            <li><a href="about-us.php">About</a></li>
+                                            <li class="dropdown"><a href="causes.php">Causes</a>
                                                 <ul>
-                                                    <li><a href="causes.html" >Causes</a></li>
-                                                    <li><a href="causes-details.html">Cause Details</a></li>
+                                                    <li><a href="causes.php" >Causes</a></li>
+                                                    <li><a href="causes-details.php">Cause Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown"><a href="#" class="active">Pages</a>
                                                 <ul>
                                                     <li class="dropdown"><a href="#">Events</a>
                                                         <ul>
-                                                            <li><a href="events.html">Events</a></li>
-                                                            <li><a href="events-carousel.html">Events Carousel</a></li>
-                                                            <li><a href="events-details.html">Event Details</a></li>
+                                                            <li><a href="events.php">Events</a></li>
+                                                            <li><a href="events-carousel.php">Events Carousel</a></li>
+                                                            <li><a href="events-details.php">Event Details</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown"><a href="#">Team</a>
                                                         <ul>
-                                                            <li><a href="team.html">Team</a></li>
-                                                            <li><a href="team-2.html">Become A Volunteer</a></li>
-                                                            <li><a href="team-3.html">Volunteer Details </a></li>
+                                                            <li><a href="team.php">Team</a></li>
+                                                            <li><a href="team-2.php">Become A Volunteer</a></li>
+                                                            <li><a href="team-3.php">Volunteer Details </a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="testimonials.html" class="active">Testimonials</a></li>
-                                                    <li><a href="faq.html">FAQs</a></li>
-                                                    <li><a href="error.html">404 Error</a></li>
-                                                    <li><a href="gallery.html">Our Gallery</a></li>
-                                                    <li><a href="donate.html">Donate</a></li>
+                                                    <li><a href="testimonials.php" class="active">Testimonials</a></li>
+                                                    <li><a href="faq.php">FAQs</a></li>
+                                                    <li><a href="error.php">404 Error</a></li>
+                                                    <li><a href="gallery.php">Our Gallery</a></li>
+                                                    <li><a href="donate.php">Donate</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown"><a href="blog-grid.html">Blog</a>
+                                            <li class="dropdown"><a href="blog-grid.php">Blog</a>
                                                 <ul>
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="blog-carousel.html">Blog Carousel</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                                    <li><a href="blog-grid.php">Blog Grid</a></li>
+                                                    <li><a href="blog-carousel.php">Blog Carousel</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
                                                 </ul>
                                             </li>  
-                                            <li><a href="contact-us.html"> Contact </a></li>     
+                                            <li><a href="contact-us.php"> Contact </a></li>     
                                         </ul>
                                     </div>
                                 </nav>
                             </div>
                             <div class="header__right">
                                 <div class="header__right__button">
-                                    <div class="header-link-btn"><a href="donate.html" target="_blank" class="btn-1 btn-alt">Donate Now <span></span></a></div>
+                                    <div class="header-link-btn"><a href="donate.php" target="_blank" class="btn-1 btn-alt">Donate Now <span></span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                 <div class="auto_container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index-2.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index-2.php"><img src="assets/images/logo.png" alt=""></a></figure>
                         </div>
                         <div class="menu-area">
                             <nav class="main-menu clearfix">
@@ -181,7 +181,7 @@
             <div class="menu-backdrop"></div>
             <div class="close-btn"><i class="fas fa-times"></i></div>
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index-2.html"><img src="assets/images/logo.png" alt="logo"></a></div>
+                <div class="nav-logo"><a href="index-2.php"><img src="assets/images/logo.png" alt="logo"></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
@@ -193,11 +193,11 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index-2.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="index-2.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index-2.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index-2.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index-2.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index-2.php"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>
@@ -211,7 +211,7 @@
                     <div class="col-lg-12">
                         <div class="common-banner-title">
                             <h3>Testimonials</h3>
-                            <a href="index-2.html">Home </a>/
+                            <a href="index-2.php">Home </a>/
                             <span> Testimonials</span>
                         </div>
                     </div>
@@ -406,7 +406,7 @@
                         <div class="col-xl-6 col-lg-12 ps-xl-0">
                             <div class="news_letter_right p_relative">
                                 <div class="form-inner p_relative">
-                                    <form action="https://commonsupport.com/mamnun/saveus/index.html" method="post" class="subscribe-form">
+                                    <form action="https://commonsupport.com/mamnun/saveus/index.php" method="post" class="subscribe-form">
                                         <div class="form-group">
                                             <input type="email" name="email" placeholder="Your mail address" required="">
                                             <div class="news-form-btn">
@@ -463,10 +463,10 @@
                                         </div>
                                         <div class="widget_content">
                                             <ul class="links_list clearfix">
-                                                <li><a href="about-us.html">About Us</a></li>
-                                                <li><a href="causes.html">Causes</a></li>
-                                                <li><a href="team.html">Our Team</a></li>
-                                                <li><a href="events-details.html">Latest News</a></li>
+                                                <li><a href="about-us.php">About Us</a></li>
+                                                <li><a href="causes.php">Causes</a></li>
+                                                <li><a href="team.php">Our Team</a></li>
+                                                <li><a href="events-details.php">Latest News</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -478,10 +478,10 @@
                                         </div>
                                         <div class="widget_content">
                                             <ul class="links_list clearfix">
-                                                <li><a href="events.html">Education</a></li>
-                                                <li><a href="causes.html">Food Donation</a></li>
-                                                <li><a href="team.html">Medical Help</a></li>
-                                                <li><a href="events-carousel.html">Technology</a></li>
+                                                <li><a href="events.php">Education</a></li>
+                                                <li><a href="causes.php">Food Donation</a></li>
+                                                <li><a href="team.php">Medical Help</a></li>
+                                                <li><a href="events-carousel.php">Technology</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -496,7 +496,7 @@
                                                 <li>4140 Parker Rd. Allentown, New Mexico</li>
                                                 <li><a href="mailto:jennings@example.com"><i class="flaticon-email"></i> jennings@example.com</a></li>
                                                 <li><a href="tel:081243256"><i class="flaticon-phone-call"></i>(208) 555-0112</a></li>
-                                                <li><div class="header-link-btn footer-donate"><a href="donate.html" target="_blank" class="btn-1 btn-alt">Donate Now <span></span></a></div></li>
+                                                <li><div class="header-link-btn footer-donate"><a href="donate.php" target="_blank" class="btn-1 btn-alt">Donate Now <span></span></a></div></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -549,5 +549,5 @@
 
 </body><!-- End of .page_wrapper -->
 
-<!-- Mirrored from commonsupport.com/mamnun/saveus/testimonials.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 06:34:03 GMT -->
+<!-- Mirrored from commonsupport.com/mamnun/saveus/testimonials.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 06:34:03 GMT -->
 </html>
