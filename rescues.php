@@ -58,9 +58,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="common-banner-title">
-                            <h3>Feeding</h3>
+                            <h3>Rescues</h3>
                             <a href="index-2.php">Home </a>/
-                            <span>Feeding</span>
+                            <span>Rescues</span>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/01.jpg" alt="image">
+                                    <img src="assets/images/rescuses/01.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g1.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -90,7 +90,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/02.jpg" alt="image">
+                                    <img src="assets/images/rescuses/04.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g2.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -104,7 +104,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="1200ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/03.jpg" alt="image">
+                                    <img src="assets/images/rescuses/05.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g3.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -118,7 +118,7 @@
                         <div class="gallery-content wow fadeInUp"  data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/04.jpg" alt="image">
+                                    <img src="assets/images/rescuses/06.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g4.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -132,7 +132,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/05.jpg" alt="image">
+                                    <img src="assets/images/rescuses/05.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g5.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -146,7 +146,7 @@
                         <div class="gallery-content wow fadeInUp"  data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/06.jpeg" alt="image">
+                                    <img src="assets/images/rescuses/7.jpeg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g6.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -160,7 +160,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/07.jpeg" alt="image">
+                                    <img src="assets/images/rescuses/8.jpeg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g7.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -174,7 +174,7 @@
                         <div class="gallery-content wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/02.jpg" alt="image">
+                                    <img src="assets/images/rescuses/9.jpeg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g8.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
@@ -188,7 +188,7 @@
                         <div class="gallery-content wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="team-content-wrapper">
                                 <div class="team-image">
-                                    <img src="assets/images/feeding/04.jpg" alt="image">
+                                    <img src="assets/images/gallery/g9.jpg" alt="image">
                                     <div class="team-icon team3-icon">
                                         <ul>
                                             <li><a href="assets/images/gallery/g9.jpg" class="team-icon-plus lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a></li>
